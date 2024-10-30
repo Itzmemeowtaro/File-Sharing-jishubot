@@ -1,4 +1,4 @@
-pyrogram
+electrogram
 TgCrypto
 pyromod
 pymongo
